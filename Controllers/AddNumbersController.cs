@@ -17,7 +17,7 @@ namespace All_For_One_Challenge.Controllers
         
          [HttpPost]
          [Route("Adding/{num1}/{num2}")]
-         public string addTwoNumbers(int num1, int num2)
+         public string addTwoNumbers(string num1, string num2)
         {
             return _addNumbersServices.addTwoNumbers(num1, num2);
         }
