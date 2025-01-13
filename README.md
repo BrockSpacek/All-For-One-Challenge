@@ -16,6 +16,6 @@ Guess It
 Restaurant Picker
 
 
-Peer Review: 
+Peer Review:  I like your code it works well I do have a question on why you chose to use post instead of get besides that I didnt catch any flaws. Good job! - Tanush Kumar
 
 Comments: 
